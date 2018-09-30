@@ -1,2 +1,2 @@
 # catkin_tutorial
-ROS catkin tutorial package following tutorial on: http://wiki.ros.org/ROS/Tutorials
+Robotic Operating System (ROS) catkin tutorial package following tutorial on: http://wiki.ros.org/ROS/Tutorials
