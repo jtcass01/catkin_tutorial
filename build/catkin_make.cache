@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/durzo/Programming/catkin_tutorial/devel -DCMAKE_INSTALL_PREFIX=/home/durzo/Programming/catkin_tutorial/install -G Unix Makefiles
