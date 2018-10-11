@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/durzo/Programming/catkin_tutorial/src
+CMAKE_SOURCE_DIR = /home/durzo/programming/catkin_tutorial/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/durzo/Programming/catkin_tutorial/build
+CMAKE_BINARY_DIR = /home/durzo/programming/catkin_tutorial/build
 
 # Utility rule file for rosgraph_msgs_generate_messages_nodejs.
 
@@ -63,10 +63,10 @@ beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build: 
 .PHONY : beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build
 
 beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/clean:
-	cd /home/durzo/Programming/catkin_tutorial/build/beginner_tutorials && $(CMAKE_COMMAND) -P CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/cmake_clean.cmake
+	cd /home/durzo/programming/catkin_tutorial/build/beginner_tutorials && $(CMAKE_COMMAND) -P CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/cmake_clean.cmake
 .PHONY : beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/clean
 
 beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/depend:
-	cd /home/durzo/Programming/catkin_tutorial/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/durzo/Programming/catkin_tutorial/src /home/durzo/Programming/catkin_tutorial/src/beginner_tutorials /home/durzo/Programming/catkin_tutorial/build /home/durzo/Programming/catkin_tutorial/build/beginner_tutorials /home/durzo/Programming/catkin_tutorial/build/beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/durzo/programming/catkin_tutorial/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/durzo/programming/catkin_tutorial/src /home/durzo/programming/catkin_tutorial/src/beginner_tutorials /home/durzo/programming/catkin_tutorial/build /home/durzo/programming/catkin_tutorial/build/beginner_tutorials /home/durzo/programming/catkin_tutorial/build/beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/depend
 

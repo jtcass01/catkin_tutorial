@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/durzo/Programming/catkin_tutorial/src
+CMAKE_SOURCE_DIR = /home/durzo/programming/catkin_tutorial/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/durzo/Programming/catkin_tutorial/build
+CMAKE_BINARY_DIR = /home/durzo/programming/catkin_tutorial/build
 
 # Utility rule file for clean_test_results.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/durzo/Programming/catkin_tutorial/build
 include CMakeFiles/clean_test_results.dir/progress.make
 
 CMakeFiles/clean_test_results:
-	/usr/bin/python2 /opt/ros/melodic/share/catkin/cmake/test/remove_test_results.py /home/durzo/Programming/catkin_tutorial/build/test_results
+	/usr/bin/python2 /opt/ros/melodic/share/catkin/cmake/test/remove_test_results.py /home/durzo/programming/catkin_tutorial/build/test_results
 
 clean_test_results: CMakeFiles/clean_test_results
 clean_test_results: CMakeFiles/clean_test_results.dir/build.make
@@ -71,6 +71,6 @@ CMakeFiles/clean_test_results.dir/clean:
 .PHONY : CMakeFiles/clean_test_results.dir/clean
 
 CMakeFiles/clean_test_results.dir/depend:
-	cd /home/durzo/Programming/catkin_tutorial/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/durzo/Programming/catkin_tutorial/src /home/durzo/Programming/catkin_tutorial/src /home/durzo/Programming/catkin_tutorial/build /home/durzo/Programming/catkin_tutorial/build /home/durzo/Programming/catkin_tutorial/build/CMakeFiles/clean_test_results.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/durzo/programming/catkin_tutorial/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/durzo/programming/catkin_tutorial/src /home/durzo/programming/catkin_tutorial/src /home/durzo/programming/catkin_tutorial/build /home/durzo/programming/catkin_tutorial/build /home/durzo/programming/catkin_tutorial/build/CMakeFiles/clean_test_results.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/clean_test_results.dir/depend
 

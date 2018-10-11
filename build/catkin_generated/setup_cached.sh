@@ -7,4 +7,5 @@
 # new environment variables
 
 # modified environment variables
-export PWD="/home/durzo/Programming/catkin_tutorial/build"
+export PKG_CONFIG_PATH="/home/durzo/programming/catkin_tutorial/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
+export PWD="/home/durzo/programming/catkin_tutorial/build"
